@@ -1,0 +1,13 @@
+<svg width="100%" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f0c29;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#302b63;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#24243e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="200" fill="url(#grad1)" />
+  <text x="50%" y="50%" fill="#00ffff" font-size="40" text-anchor="middle" dominant-baseline="middle" font-family="monospace">
+    CYBERSECURITY | AUTOMATION ARSENAL
+  </text>
+</svg>
